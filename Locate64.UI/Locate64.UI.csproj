@@ -4,4 +4,8 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="NGettext" Version="0.6.5" />
+  </ItemGroup>
+
 </Project>
